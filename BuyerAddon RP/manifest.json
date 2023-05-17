@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"O1nekon"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "BuyerAddon",
+		"description": "Add buyer on your server!",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "8edea550-9640-4077-b6af-e7ba9a2ec2cc",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "9d540167-7099-42d6-8cf8-c913552af843",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "e30f2c1b-169c-4077-a34c-76c2b12ddcaa",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
